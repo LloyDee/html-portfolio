@@ -2,29 +2,26 @@
     background-color:whitesmoke;
 }
 .header-name{
-    font-family: "Papyrus";
+    font-family: "Papyrus", sans-serif;
     color:cadetblue;
     line-height: .5;
 }.header-title{
-    font-family: "Courier New";
+    font-family: "Papyrus", sans-serif;
     font-size: 15px;
     letter-spacing: 1px;
     line-height: 1.5;
 
 }
 .professional-summary, h3{
-    font-family: "Papyrus";
+    font-family: "Papyrus", sans-serif;
 }
-.summary-header{
+.summary-header, h4, li{
     letter-spacing: 1.5px;
-    font-family: "Courier New";
+    font-family: "Helvetica", sans-serif;
 
 }
 h2,h3{
     background:silver;
-}
-h4, li{
-    font-family: "Courier New";
 }
 
 .hired-date{
