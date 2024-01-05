@@ -3,10 +3,10 @@
 }
 .header-name{
     font-family: "Papyrus", sans-serif;
-    color:cadetblue;
+    color:grey;
     line-height: .5;
 }.header-title{
-    font-family: "Papyrus", sans-serif;
+    font-family: "Helvetica", sans-serif;
     font-size: 15px;
     letter-spacing: 1px;
     line-height: 1.5;
@@ -15,12 +15,18 @@
 .professional-summary, h3{
     font-family: "Papyrus", sans-serif;
 }
-.summary-header, h4, li{
+.summary-header, h4, li,p{
     letter-spacing: 1.5px;
     font-family: "Helvetica", sans-serif;
-
 }
-h2,h3{
+.summary-header{
+    margin-top:-20px;
+    border-style:groove ;
+    padding:5px 10px;
+    border-radius: 5px;
+    text-align: justify;
+}
+h3{
     background:silver;
 }
 
