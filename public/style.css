@@ -1,6 +1,4 @@
-*{
-    background-color:whitesmoke;
-}
+
 .top{
     background-image: url("../assets/images/background.png");
     margin:40px 150px;
@@ -12,26 +10,16 @@
 .name{
     line-height:10px;
     color:white;
-    background-image: url("../assets/images/background.png");
     font-weight:normal;
-/*    margin:100px 250px;*/
 }
 .logo{
     background-image: url("../assets/images/background.png");
-
-/*    margin:500px 480px;*/
-/*    padding:1px;*/
+    margin:10px 10px 10px 10px;
 }
 .header-name{
     font-family: "Papyrus", sans-serif;
     color:grey;
     line-height: .5;
-}.header-title{
-    font-family: "Helvetica", sans-serif;
-    font-size: 15px;
-    letter-spacing: 1px;
-    line-height: 1.5;
-
 }
 .professional-summary, h3{
     font-family: "Papyrus", sans-serif;
@@ -67,10 +55,9 @@ p{
 .img{
     height:30px;
     margin:0px;
+    background-color:white;
 }
-.header-title{
-    line-height: 1px;
-}
+
 
 
 
