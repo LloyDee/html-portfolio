@@ -12,13 +12,14 @@
 }
 .name{
     line-height:10px;
+    color:white;
     background-image: url("../assets/images/background.png");
     font-weight:normal;
-    margin:10px 250px;
+/*    margin:100px 250px;*/
 }
 .logo{
-    margin:0px 480px;
-    padding:1px;
+/*    margin:500px 480px;*/
+/*    padding:1px;*/
 }
 .header-name{
     font-family: "Papyrus", sans-serif;
