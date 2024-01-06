@@ -1,0 +1,9 @@
+.certificate{
+    font-family:"Papyrus", "Serif";
+    text-align:center;
+    color:whitesmoke;
+    border-style:groove;
+    border-radius:50px;
+    background-image:url("../assets/images/background.png");
+    padding-bottom:100px;
+}
