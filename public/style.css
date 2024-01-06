@@ -1,6 +1,14 @@
 *{
     background-color:whitesmoke;
 }
+.top{
+    margin:40px 350px;
+    border-style:groove ;
+    padding:10px;
+    text-align:center;
+    border-radius: 5px;
+
+}
 .header-name{
     font-family: "Papyrus", sans-serif;
     color:grey;
