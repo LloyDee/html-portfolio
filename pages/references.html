@@ -11,6 +11,14 @@
             margin:1px 300px;
             font-weight:bolder;
         }
+        .cat{
+            width:250px;
+            height:250px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius:40px;
+        }
     </style>
 </head>
 <body>
@@ -32,7 +40,39 @@
     <p>Cat Boss<br>Pintac@gmaill.com</p>
     ---------
     <h2>Lyon Leon</h2>
-    <p>Annoying Cat <br>LyonLion@gmaill.com</p>
+    <p>Annoying Cat <br>
+
+
+    <div class="w3-center">
+        <img  class="pets cat" src="./images/leon.png" alt="pet" >
+        <img  class="pets cat" src="./images/lyon.png" alt="pet" >
+        <img  class="pets cat" src="./images/leon1.png" alt="pet" >
+
+        <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+        <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+    </div>
+    <script>
+        var slideIndex = 1;
+        showDivs(slideIndex);
+
+        function plusDivs(n) {
+            showDivs(slideIndex += n);
+        }
+
+        function showDivs(n) {
+            var i;
+            var x = document.getElementsByClassName("pets");
+            if (n > x.length) {slideIndex = 1}
+            if (n < 1) {slideIndex = x.length}
+            for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";
+            }
+            x[slideIndex-1].style.display = "block";
+        }
+    </script>
+
+
+
     ---------
     <h2>Snow White</h2>
     <p>Lazy Dog<br>SnowWhite@gmaill.com</p>
