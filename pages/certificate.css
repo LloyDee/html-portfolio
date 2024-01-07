@@ -23,10 +23,12 @@
 }
 .home{
     width: 250px;
+    font-size:30px;
     color:white;
 }
 .tabs{
     float:right;
+    font-size:30px;
     width: 250px;
     color:white;
 }

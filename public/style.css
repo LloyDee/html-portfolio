@@ -18,10 +18,12 @@
 .home{
     width: 250px;
     color:white;
+    font-size:30px;
 }
 
 .tabs{
     float:right;
+    font-size:30px;
     width: 250px;
     color:white;
 }
