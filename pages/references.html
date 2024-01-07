@@ -12,7 +12,7 @@
             font-weight:bolder;
         }
 
-        .snow, .tiger, .cat{
+        .snow, .tiger, .cat, .storm{
             width:250px;
             height:250px;
             display: block;
@@ -61,6 +61,9 @@
         <img class="pets cat" src="./images/img_1.png" alt="pet">
         <img class="pets cat" src="./images/img_2.png" alt="pet">
         <img class="pets cat" src="./images/img_5.png" alt="pet">
+        <img class="pets cat" src="./images/img_13.png" alt="pet">
+        <img class="pets cat" src="./images/img_14.png" alt="pet">
+        <img class="pets cat" src="./images/img_15.png" alt="pet">
 
         <button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
         <button class="w3-button w3-display-right" onclick="plusDivs(1)">&#10095;</button>
@@ -139,8 +142,34 @@
             x[slideIndex2-1].style.display = "block";
         }
     </script>
+    <script>
+        var slideIndex3 = 1;
+        showDivs3(slideIndex3);
+
+        function plusDivs3(n) {
+            showDivs3(slideIndex3 += n);
+        }
+
+        function showDivs3(n) {
+            var i;
+            var x = document.getElementsByClassName("storm");
+            if (n > x.length) {slideIndex3 = 1}
+            if (n < 1) {slideIndex3 = x.length}
+            for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";
+            }
+            x[slideIndex3-1].style.display = "block";
+        }
+    </script>
     <h2>Storm Trooper</h2>
-    <p>Crazy Dog<br>Stormy@gmaill.com</p>
+    <p>Crazy Dog</p>
+
+    <div class="w3-black">
+        <img class="storm" src="./images/img_12.png" alt="pet">
+
+        <button class="w3-black w3-display-left" onclick="plusDivs3(-1)">&#10094;</button>
+        <button class="w3-black w3-display-right" onclick="plusDivs3(1)">&#10095;</button>
+    </div>
     <h2>Storm Trooper</h2>
     <p>Crazy Dog<br>Stormy@gmaill.com</p>
     <h2>Storm Trooper</h2>
