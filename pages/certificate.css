@@ -4,10 +4,32 @@
     color:black;
     background-image:url("../assets/images/certbackground.gif");
     padding-bottom:100px;
+    padding-top:50px;
 }
 .cert{
     width:600px;
 }
 .small-gif{
     width:32;
+}
+.header{
+    padding:20px;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    color:whitesmoke;
+    -webkit-backface-visibility: hidden;
+}.tabs{
+    float:right;
+    width: 250px;
+    color:white;
+}
+.tabs:hover{
+    text-decoration: underline;
+    color: antiquewhite;
+    font-weight:bolder;
+}
+.tabs:visited{
+    color: antiquewhite;
 }
