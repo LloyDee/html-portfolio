@@ -39,3 +39,8 @@
     color: antiquewhite;
     font-weight:bolder;
 }
+.footer{
+    font-family:"Times New Roman", "Serif";
+    color:white;
+    background-color:grey;
+}
