@@ -1,10 +1,11 @@
 .top{
     background-image: url("../assets/images/background.png");
-    margin:40px 100px;
+    margin:100px 100px;
     border-style:groove ;
     padding:10px;
     text-align:center;
 }
+
 .header{
     font-family: "Papyrus", sans-serif;
     overflow: hidden;
@@ -17,6 +18,12 @@
 }.tabs{
     float:right;
     width: 250px;
+    color:white;
+}
+.tabs:hover{
+    text-decoration: underline;
+    color: antiquewhite;
+    font-weight:bolder;
 }
 .name{
     line-height:10px;
