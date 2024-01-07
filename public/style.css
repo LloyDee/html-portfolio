@@ -86,7 +86,11 @@ p{
     background-color:white;
 }
 
-
+.footer{
+    font-family:"Times New Roman", "Serif";
+    color:white;
+    background-color:grey;
+}
 
 
 
