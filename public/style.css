@@ -14,12 +14,18 @@
     width: 100%;
     color:whitesmoke;
     -webkit-backface-visibility: hidden;
-}.tabs{
+}
+.home{
+    width: 250px;
+    color:white;
+}
+
+.tabs{
     float:right;
     width: 250px;
     color:white;
 }
-.tabs:hover{
+.tabs:hover, .home:hover{
     text-decoration: underline;
     color: antiquewhite;
     font-weight:bolder;
