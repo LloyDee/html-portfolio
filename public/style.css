@@ -1,6 +1,6 @@
 .top{
     background-image: url("../assets/images/background.png");
-    margin:100px 100px;
+    margin:200px 100px;
     border-style:groove ;
     padding:10px;
     text-align:center;
@@ -24,6 +24,9 @@
     text-decoration: underline;
     color: antiquewhite;
     font-weight:bolder;
+}
+.tabs:visited{
+    color: antiquewhite;
 }
 .name{
     line-height:10px;
