@@ -92,7 +92,11 @@ p{
     color:white;
     background-color:grey;
 }
-
+.ako{
+    border-radius:50%;
+    border-style:groove;
+    border-block-style: solid;
+}
 /*Assignments*/
 
 
