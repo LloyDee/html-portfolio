@@ -16,6 +16,7 @@
     color:whitesmoke;
     -webkit-backface-visibility: hidden;
 }
+
 .home{
     width: 250px;
     color:white;
@@ -35,6 +36,13 @@
 }
 .tabs:visited{
     color: antiquewhite;
+}
+
+@media(max-width:900px){
+    .tabs{
+        font-size:10px;
+        font-color:yellow;
+    }
 }
 .name{
     line-height:10px;

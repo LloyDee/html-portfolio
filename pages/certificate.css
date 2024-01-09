@@ -46,4 +46,6 @@ a{
     font-family:"Times New Roman", "Serif";
     color:white;
     background-color:grey;
+    clear:left;
+    clear:right;
 }
