@@ -13,6 +13,8 @@
     width:32;
 }
 .header{
+    display:inline-flex;
+    justify-content:flex-end;
     padding:20px;
     background-color: black;
     position: fixed;
@@ -21,7 +23,9 @@
     color:whitesmoke;
     -webkit-backface-visibility: hidden;
 }
-
+.header > .home{
+    width:100%;
+}
 .home{
     width: 250px;
     font-size:30px;
@@ -32,6 +36,7 @@
     font-size:30px;
     width: 250px;
     color:white;
+    font-weight:bolder;
 }
 
 .tabs:hover, .home:hover{
@@ -39,9 +44,7 @@
     color: antiquewhite;
     font-weight:bolder;
 }
-a{
-    font-weight:bolder;
-}
+
 .footer{
     font-family:"Times New Roman", "Serif";
     color:white;

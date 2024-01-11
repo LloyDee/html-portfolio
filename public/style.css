@@ -8,7 +8,8 @@
 }
 
 .header{
-    display:inline-block;
+    display:inline-flex;
+    justify-content:flex-end;
     padding:20px;
     background-color: black;
     position: fixed;
@@ -17,11 +18,15 @@
     color:whitesmoke;
     -webkit-backface-visibility: hidden;
 }
+.header > .home{
+    width:100%;
+}
 
 .home{
     width: 250px;
     color:white;
     font-size:30px;
+    float:right;
 }
 
 .tabs{
@@ -29,6 +34,7 @@
     font-size:30px;
     width: 250px;
     color:white;
+    font-weight:bolder;
 }
 .tabs:hover, .home:hover{
     text-decoration: underline;
@@ -39,12 +45,7 @@
     color: antiquewhite;
 }
 
-@media(max-width:900px){
-    .tabs, .home{
-        font-size:10px;
-        font-color:yellow;
-    }
-}
+
 .name{
     line-height:10px;
     color:black;
