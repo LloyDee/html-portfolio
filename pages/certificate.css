@@ -25,7 +25,7 @@
     -webkit-backface-visibility: hidden;
 }
 .header > .home{
-    justify-content:flex-start;
+    align-self:flex-start;
     flex-grow: 4
 }
 .home{
