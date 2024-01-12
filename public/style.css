@@ -17,21 +17,9 @@
     font-size:30px;
     float:right;
 }
-
-.tabs{
-    float:right;
-    font-size:30px;
-    width: 250px;
-    color:white;
+.navbar{
     font-weight:bolder;
-}
-.tabs:hover, .home:hover{
-    text-decoration: underline;
-    color: antiquewhite;
-    font-weight:bolder;
-}
-.tabs:visited{
-    color: antiquewhite;
+    font-family: "Papyrus";
 }
 
 
@@ -54,7 +42,7 @@
 }
 .summary-header,li,p{
     letter-spacing: 1.5px;
-    font-family: "Helvetica", sans-serif;
+/*    font-family: "Helvetica", sans-serif;*/
 }
 .summary-header{
     margin-top:-20px;
