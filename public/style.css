@@ -56,6 +56,7 @@
 h3{
     background-image: url("../assets/images/line-breaker.png");
 }
+
 .container{
     font-size:20px;
     font-weight:bolder;
@@ -75,10 +76,15 @@ p{
 }
 .img{
     height:30px;
+    margin:0px;
+}
+ .icons{
+    height:30px;
     width:60px;
     margin:0px;
     background-color:white;
 }
+
 
 .footer{
     font-family:"Times New Roman", "Serif";
