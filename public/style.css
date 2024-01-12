@@ -7,17 +7,6 @@
     border-radius:10px;
 }
 
-.header{
-    display:inline-flex;
-    justify-content:flex-end;
-    padding:20px;
-    background-color: black;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    color:whitesmoke;
-    -webkit-backface-visibility: hidden;
-}
 .header > .home{
     width:100%;
 }
