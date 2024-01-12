@@ -54,10 +54,13 @@
 h3{
     background-image: url("../assets/images/line-breaker.png");
 }
-
-.hired-date{
-    float:right;
-    font-weight: bold;
+.container{
+    font-size:20px;
+    font-weight:bolder;
+}
+a{
+    text-decoration: none;
+    color: black;
 }
 p{
     color:black;
@@ -70,6 +73,7 @@ p{
 }
 .img{
     height:30px;
+    width:80px;
     margin:0px;
     background-color:white;
 }
