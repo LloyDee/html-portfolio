@@ -39,9 +39,11 @@
 }
 .professional-summary, h3{
     font-family: "Papyrus", sans-serif;
+    font-weight:bolder;
 }
 .summary-header,li,p{
     letter-spacing: 1.5px;
+    font-weight:bolder;
 /*    font-family: "Helvetica", sans-serif;*/
 }
 .summary-header{
@@ -73,7 +75,7 @@ p{
 }
 .img{
     height:30px;
-    width:80px;
+    width:60px;
     margin:0px;
     background-color:white;
 }
