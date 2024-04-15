@@ -28,9 +28,13 @@ Ano naman ang response ni Jehovah?
 Kasi hindi nanatiling galit si Jehovah katulad ng isang prutas…
 
 Kumusta naman sa atin sa ngayon?
+Ang isa sa mga displina na ginagamit ni Jehovah ay ang pagtitiwalag 
 Oo sa atin sa ngayon ay may pagbabago din sa paraan ng pag-disiplina ni Jehovah kompara noon – katulad ni David hindi tayo kailangan magawa ng altar.
 Katulad ni David nagkakamali din tayo, pero katulad ni David nag-sisisi ba tayo, at mapagpakumbaba na magmamakaawa sa kapatawaran ni Jehovah?
-Totoo na kapag tayo ay nagkakasala – natural lang na mahihiya tayo. Kung paanong sa literal na pagkadapa - lingon-lingon muna tayo kung may nakakita bas a atin o wala.. pero at the end bumabangon tayo. At marami tayong mga kapatid, kapamilya at kakilala na nadapa sila bumangon at patuloy na lumakad patungo sa daan ni Jehovah.
+Totoo na kapag tayo ay nagkakasala – natural lang na mahihiya tayo. Kung paanong sa literal na pagkadapa - lingon-lingon muna tayo kung may nakakita bas a atin o wala.. pero at the end bumabangon tayo. 
+
+
+At marami tayong mga kapatid, kapamilya at kakilala na nadapa sila bumangon at patuloy na lumakad patungo sa daan ni Jehovah.
 Si Jehovah ay hindi nanatili ang kaniyang galit bilang patunay ay ang recent update natin, gusto ni Jehovah na manumbalik sa kaniya ang kaniyang mga nag-sisising mga lingkod. Gusto ni Jehovah na yakapin ng mahigpit. 
 Kung paanong ang magulang ay dinisiplina/pinapalo pero at the end ang pag-ibig.
 
